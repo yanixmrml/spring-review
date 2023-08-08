@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/cashcard" />
+        <option name="gradleJvm" value="azul-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/cashcard" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab" />
+        <option name="gradleJvm" value="azul-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lab" />
+            <option value="$PROJECT_DIR$/lab/00-rewards-common" />
+            <option value="$PROJECT_DIR$/lab/01-rewards-db" />
+            <option value="$PROJECT_DIR$/lab/10-spring-intro" />
+            <option value="$PROJECT_DIR$/lab/10-spring-intro-solution" />
+            <option value="$PROJECT_DIR$/lab/12-javaconfig-dependency-injection" />
+            <option value="$PROJECT_DIR$/lab/12-javaconfig-dependency-injection-solution" />
+            <option value="$PROJECT_DIR$/lab/16-annotations" />
+            <option value="$PROJECT_DIR$/lab/16-annotations-solution" />
+            <option value="$PROJECT_DIR$/lab/22-aop" />
+            <option value="$PROJECT_DIR$/lab/22-aop-solution" />
+            <option value="$PROJECT_DIR$/lab/24-test" />
+            <option value="$PROJECT_DIR$/lab/24-test-solution" />
+            <option value="$PROJECT_DIR$/lab/26-jdbc" />
+            <option value="$PROJECT_DIR$/lab/26-jdbc-solution" />
+            <option value="$PROJECT_DIR$/lab/28-transactions" />
+            <option value="$PROJECT_DIR$/lab/28-transactions-solution" />
+            <option value="$PROJECT_DIR$/lab/30-jdbc-boot-solution" />
+            <option value="$PROJECT_DIR$/lab/32-jdbc-autoconfig" />
+            <option value="$PROJECT_DIR$/lab/32-jdbc-autoconfig-solution" />
+            <option value="$PROJECT_DIR$/lab/34-spring-data-jpa" />
+            <option value="$PROJECT_DIR$/lab/34-spring-data-jpa-solution" />
+            <option value="$PROJECT_DIR$/lab/36-mvc" />
+            <option value="$PROJECT_DIR$/lab/36-mvc-solution" />
+            <option value="$PROJECT_DIR$/lab/38-rest-ws" />
+            <option value="$PROJECT_DIR$/lab/38-rest-ws-solution" />
+            <option value="$PROJECT_DIR$/lab/40-boot-test" />
+            <option value="$PROJECT_DIR$/lab/40-boot-test-solution" />
+            <option value="$PROJECT_DIR$/lab/42-security-rest" />
+            <option value="$PROJECT_DIR$/lab/42-security-rest-solution" />
+            <option value="$PROJECT_DIR$/lab/44-actuator" />
+            <option value="$PROJECT_DIR$/lab/44-actuator-solution" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
